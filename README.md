@@ -6,5 +6,4 @@ I mading projects just for fun.
 ## Skills and Experience
 * ⚛ React
 * 💻 Next
-* 📱 React Native
 * 💻 HTML, CSS, JS
