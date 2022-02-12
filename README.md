@@ -7,3 +7,4 @@ I'm mading projects just for fun.
 * ⚛ React
 * 💻 Next
 * 💻 HTML, CSS, JS
+* 📧 Contact: veguspl@gmail.com
