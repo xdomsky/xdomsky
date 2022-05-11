@@ -6,5 +6,6 @@ I'm making projects just for fun.
 ## Skills and Experience
 * ⚛ React
 * 💻 Next
+* 💻 Vue
 * 💻 HTML, CSS, JS
 * 📧 Contact: veguspl@gmail.com
