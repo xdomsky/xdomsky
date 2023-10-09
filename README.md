@@ -3,7 +3,7 @@
 
 I'm making projects just for fun.
 
-My web page: https://xdomsky.ga/
+My web page: https://xdomsky.com/
 
 ## Skills and Experience
 * ⚛ React
